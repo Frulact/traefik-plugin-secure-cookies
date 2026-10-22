@@ -1,0 +1,5 @@
+displayName: Secure Cookies
+type: middleware
+import: github.com/Frulact/traefik-plugin-secure-cookies
+summary: Adds the Secure attribute to every Set-Cookie response header that lacks it.
+testData: {}
